@@ -1,0 +1,13 @@
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/AcademyApp.deps.json
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/AcademyApp.runtimeconfig.json
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/AcademyApp.runtimeconfig.dev.json
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/AcademyApp.dll
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/AcademyApp.pdb
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.csproj.AssemblyReference.cache
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.AssemblyInfoInputs.cache
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.AssemblyInfo.cs
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.csproj.CoreCompileInputs.cache
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.dll
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.pdb
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.genruntimeconfig.cache

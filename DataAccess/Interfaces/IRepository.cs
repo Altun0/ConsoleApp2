@@ -14,7 +14,7 @@ namespace DataAccess.Interfaces
 
         List <T> GetAll(Predicate<T> filter=null);
 
-        T Get(Predicate<T> filter=null); 
+        T Get(Predicate<T> filter=null);   
 
     }
 }

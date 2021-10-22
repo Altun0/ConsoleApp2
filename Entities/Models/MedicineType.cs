@@ -9,8 +9,10 @@ namespace Entities.Models
 
         public string Name { get; set; }
 
+        public int Cost { get; set; }
 
 
-     
+
+
     } 
 }

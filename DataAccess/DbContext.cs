@@ -13,6 +13,7 @@ namespace DataAccess
         static DbContext()
         {
             Medicines = new List<Medicine>();
+
             MedicineTypes = new List<MedicineType>();
 
         }

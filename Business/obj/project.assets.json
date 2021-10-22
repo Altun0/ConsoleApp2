@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Business/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "DataAccess": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Business.dll": {}
-        }
-      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -41,11 +28,6 @@
     }
   },
   "libraries": {
-    "Business/1.0.0": {
-      "type": "project",
-      "path": "../Business/Business.csproj",
-      "msbuildProject": "../Business/Business.csproj"
-    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -59,7 +41,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Business >= 1.0.0"
+      "DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -68,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/altun/Projects/P125core/AcademyApp/AcademyApp.csproj",
-      "projectName": "AcademyApp",
-      "projectPath": "/Users/altun/Projects/P125core/AcademyApp/AcademyApp.csproj",
+      "projectUniqueName": "/Users/altun/Projects/P125core/Business/Business.csproj",
+      "projectName": "Business",
+      "projectPath": "/Users/altun/Projects/P125core/Business/Business.csproj",
       "packagesPath": "/Users/altun/.nuget/packages/",
-      "outputPath": "/Users/altun/Projects/P125core/AcademyApp/obj/",
+      "outputPath": "/Users/altun/Projects/P125core/Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/altun/.config/NuGet/NuGet.Config"
@@ -87,8 +69,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/altun/Projects/P125core/Business/Business.csproj": {
-              "projectPath": "/Users/altun/Projects/P125core/Business/Business.csproj"
+            "/Users/altun/Projects/P125core/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/altun/Projects/P125core/DataAccess/DataAccess.csproj"
             }
           }
         }

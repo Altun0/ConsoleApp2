@@ -6,6 +6,7 @@ namespace AcademyApp
     {
         static void Main(string[] args)
         {
+            Console
         }
     }
 }

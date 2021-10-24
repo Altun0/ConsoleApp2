@@ -4,10 +4,10 @@ using Entities.Interface;
 
 namespace Entities.Models
 {
-    public class Medicine:IEntity
+    public class Medicinetype:IEntity
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string name { get; set; }
         public int Cost { get; set; }
     }
 }

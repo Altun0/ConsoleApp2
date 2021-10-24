@@ -8,3 +8,6 @@
 /Users/altun/Projects/P125core/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
 /Users/altun/Projects/P125core/Entities/obj/Debug/netcoreapp3.1/Entities.dll
 /Users/altun/Projects/P125core/Entities/obj/Debug/netcoreapp3.1/Entities.pdb
+/Users/altun/Projects/P125core/Entities/bin/Debug/netcoreapp3.1/Utilies.dll
+/Users/altun/Projects/P125core/Entities/bin/Debug/netcoreapp3.1/Utilies.pdb
+/Users/altun/Projects/P125core/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CopyComplete

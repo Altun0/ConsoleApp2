@@ -1,0 +1,10 @@
+/Users/altun/Projects/P125core/Utilies/bin/Debug/netcoreapp3.1/Utilies.deps.json
+/Users/altun/Projects/P125core/Utilies/bin/Debug/netcoreapp3.1/Utilies.dll
+/Users/altun/Projects/P125core/Utilies/bin/Debug/netcoreapp3.1/Utilies.pdb
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.csproj.AssemblyReference.cache
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.AssemblyInfoInputs.cache
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.AssemblyInfo.cs
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.csproj.CoreCompileInputs.cache
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.dll
+/Users/altun/Projects/P125core/Utilies/obj/Debug/netcoreapp3.1/Utilies.pdb

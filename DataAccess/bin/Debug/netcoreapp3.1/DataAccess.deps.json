@@ -15,8 +15,16 @@
         }
       },
       "Entities/1.0.0": {
+        "dependencies": {
+          "Utilies": "1.0.0"
+        },
         "runtime": {
           "Entities.dll": {}
+        }
+      },
+      "Utilies/1.0.0": {
+        "runtime": {
+          "Utilies.dll": {}
         }
       }
     }
@@ -28,6 +36,11 @@
       "sha512": ""
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilies/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

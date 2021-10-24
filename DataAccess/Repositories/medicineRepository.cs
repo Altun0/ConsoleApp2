@@ -5,10 +5,10 @@ using Entities.Models;
 
 namespace DataAccess.Repositories
 {
-    public class MedicineRepository : IRepository <Medicine>
+    public class MedicineRepository : IRepository <Medicinetype>
 
     {
-        public bool Create(Medicine entity)
+        public bool Create(Medicinetype entity)
         {
             try
             {
@@ -21,7 +21,7 @@ namespace DataAccess.Repositories
             }
         }
 
-        public bool Delete(Medicine entity)
+        public bool Delete(Medicinetype entity)
         {
             try
             {
@@ -35,7 +35,7 @@ namespace DataAccess.Repositories
         }
         
 
-        public Medicine Get(Predicate<Medicine> filter = null)
+        public Medicinetype Get(Predicate<Medicinetype> filter = null)
         {
             try
             {
@@ -48,7 +48,7 @@ namespace DataAccess.Repositories
             }
         }
 
-        public List<Medicine> GetAll(Predicate<Medicine> filter = null)
+        public List<Medicinetype> GetAll(Predicate<Medicinetype> filter = null)
         {
             try
             {
@@ -62,11 +62,11 @@ namespace DataAccess.Repositories
 
         }
        
-        public bool Update(Medicine entity)
+        public bool Update(Medicinetype entity)
         {
             try
             {
-                Medicine dbmedicine = Get(s => s.Id == entity.Id);
+                Medicinetype dbmedicine = Get(s => s.Id == entity.Id);
                 dbmedicine = entity;
                 return true;
             }

@@ -11,3 +11,12 @@
 /Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.dll
 /Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.pdb
 /Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.genruntimeconfig.cache
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Business.dll
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Business.pdb
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/altun/Projects/P125core/AcademyApp/obj/Debug/netcoreapp3.1/AcademyApp.csproj.CopyComplete
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Utilies.dll
+/Users/altun/Projects/P125core/AcademyApp/bin/Debug/netcoreapp3.1/Utilies.pdb

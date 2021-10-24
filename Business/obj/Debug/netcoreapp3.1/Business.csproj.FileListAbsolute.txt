@@ -1,0 +1,17 @@
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Business.dll
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Business.pdb
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.csproj.AssemblyReference.cache
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.csproj.CopyComplete
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.dll
+/Users/altun/Projects/P125core/Business/obj/Debug/netcoreapp3.1/Business.pdb
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Utilies.dll
+/Users/altun/Projects/P125core/Business/bin/Debug/netcoreapp3.1/Utilies.pdb

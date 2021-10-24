@@ -7,12 +7,10 @@ namespace Entities.Models
     {
         public int Id { get; set; }
 
-        public string Name { get; set; }
+        public string name { get; set; }
 
         public int Cost { get; set; }
 
-
-
-
+        public MedicineType medicineType { get; set; } 
     } 
 }

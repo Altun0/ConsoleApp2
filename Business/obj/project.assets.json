@@ -18,11 +18,24 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Utilies": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
           "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Utilies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Utilies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilies.dll": {}
         }
       }
     }
@@ -37,11 +50,17 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Utilies/1.0.0": {
+      "type": "project",
+      "path": "../Utilies/Utilies.csproj",
+      "msbuildProject": "../Utilies/Utilies.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DataAccess >= 1.0.0"
+      "DataAccess >= 1.0.0",
+      "Utilies >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,6 +90,9 @@
           "projectReferences": {
             "/Users/altun/Projects/P125core/DataAccess/DataAccess.csproj": {
               "projectPath": "/Users/altun/Projects/P125core/DataAccess/DataAccess.csproj"
+            },
+            "/Users/altun/Projects/P125core/Utilies/Utilies.csproj": {
+              "projectPath": "/Users/altun/Projects/P125core/Utilies/Utilies.csproj"
             }
           }
         }

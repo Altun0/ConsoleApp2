@@ -1,39 +1,44 @@
 ﻿<Properties StartupConfiguration="{5A53DC94-F6DD-47D7-85E6-1CC69546B40A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AcademyApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Servicess/MedicinetypeService.cs">
     <Files>
-      <File FileName="Entities/Models/MedicineType.cs" Line="12" Column="24" />
-      <File FileName="DataAccess/DbContext.cs" Line="15" Column="46" />
-      <File FileName="DataAccess/Repositories/MedicineType.cs" Line="70" Column="7" />
-      <File FileName="DataAccess/Repositories/medicineRepository.cs" Line="6" Column="11" />
-      <File FileName="DataAccess/IRepository.cs" Line="9" Column="31" />
-      <File FileName="Entities/Interface/IEntity.cs" Line="4" Column="29" />
-      <File FileName="Business/Interfaces/IMedicine.cs" Line="23" Column="1" />
-      <File FileName="Business/Servicess/MedicineService.cs" Line="31" Column="25" />
-      <File FileName="AcademyApp/Program.cs" Line="9" Column="20" />
+      <File FileName="Utilies/Helpers/Helper.cs" Line="12" Column="9" />
+      <File FileName="AcademyApp/Controllers/MedicineController.cs" Line="61" Column="10" />
+      <File FileName="AcademyApp/Program.cs" Line="9" Column="18" />
+      <File FileName="DataAccess/Repositories/medicineRepository.cs" Line="1" Column="1" />
+      <File FileName="Entities/Models/MedicineType.cs" Line="14" Column="56" />
+      <File FileName="DataAccess/Repositories/MedicinetypeRepository.cs" Line="1" Column="1" />
+      <File FileName="Business/Interfaces/IMedicinetype.cs" Line="26" Column="6" />
+      <File FileName="Business/Servicess/MedicinetypeService.cs" Line="24" Column="1" />
+      <File FileName="Business/Servicess/MedicineService.cs" Line="69" Column="10" />
+      <File FileName="Business/Servicess/Medicine.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="P125Core" expanded="True">
-            <Node name="Solution Items" expanded="True" />
-            <Node name="AcademyApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
             <Node name="Business" expanded="True">
               <Node name="Interfaces" expanded="True" />
-              <Node name="Servicess" expanded="True" />
+              <Node name="Servicess" expanded="True">
+                <Node name="MedicinetypeService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.AcademyApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DataAccess FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Business FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

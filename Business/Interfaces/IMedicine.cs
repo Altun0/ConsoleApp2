@@ -6,19 +6,19 @@ namespace Business.Interfaces
 {
     public interface IMedicine
     {
-        Medicine Create(Medicine medicine);
+        Medicinetype Create(Medicinetype medicine);
 
-        Medicine Update(int Id, Medicine medicine);
+        Medicinetype Update(int Id, Medicinetype medicine);
 
-        Medicine Delete(int Id);
+        Medicinetype Delete(int Id);
 
-        Medicine Get(int Id);
+        Medicinetype Get(int Id);
 
-        Medicine Get(string Name);
+        Medicinetype Get(string Name);
 
-        List<Medicine> GetAll();
+        List<Medicinetype> GetAll();
 
-        List<Medicine> GetAll(int Cost);
+        List<Medicinetype> GetAll(int Cost);
 
 
 

@@ -20,14 +20,14 @@ namespace Business.Servicess
 
         public Medicinetype Create(Medicinetype medicinetype, string medicineName)
         {
-            //Medicine dbMedicine = medicineService.Get(medicineName);
-            //if (dbMedicine != null)
-            //{
-            //    medicinetype.name = dbMedicine; 
-            //}
-            //else
-            //{
-            //    return null;
+            Medicine dbMedicine = medicineService.Get(medicineName);
+            if (dbMedicine != null)
+            {
+                medicinetype.name = dbMedicine;
+            }
+            else
+            {
+                return null;
             }
 
         }
